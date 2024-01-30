@@ -1,0 +1,9 @@
+﻿  Assembling Jacob_Knight.asm...
+Jacob_Knight.asm(6): error A2008: syntax error : .
+Jacob_Knight.asm(7): error A2008: syntax error : .
+Jacob_Knight.asm(8): error A2008: syntax error : .
+Jacob_Knight.asm(9): error A2008: syntax error : ,
+Jacob_Knight.asm(36): error A2008: syntax error : INVOKE
+Jacob_Knight.asm(38): error A2008: syntax error : main
+Jacob_Knight.asm(38): error A2088: END directive required at end of file
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\Jacob_Knight.obj" /W3 /errorReport:prompt  /TaJacob_Knight.asm" exited with code 1.
